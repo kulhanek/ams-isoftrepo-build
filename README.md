@@ -1,9 +1,6 @@
 # ams-isoftrepo-build
 Utilities for testing and building of the [ams-isoftrepo](https://github.com/kulhanek/ams-isoftrepo) package.
 
-## AMS Servers Features:
-* module descriptions
-
 ## Building and Installation
 
 ### Testing Mode
