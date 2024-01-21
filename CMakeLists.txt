@@ -79,5 +79,5 @@ ADD_SUBDIRECTORY(src/projects/ams-isoftrepo/9.0)
 
 ADD_DEPENDENCIES(w3tk_shared hipoly_shared)
 ADD_DEPENDENCIES(ams_shared hipoly_shared hwloc-build)
-ADD_DEPENDENCIES(ams-isoftrepo hipoly_shared firebird_shared ams_shared w3tk_shared)
+ADD_DEPENDENCIES(ams-isoftrepo hipoly_shared ams_shared w3tk_shared)
 
